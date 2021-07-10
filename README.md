@@ -1,5 +1,4 @@
 UIELEMENTS
-UIElements
 
 UI elements are the visual elements that we can see in our applications.
 
